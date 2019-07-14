@@ -1,5 +1,4 @@
 # Android_Broadcast_Receiver
-This android tutorial shows the basic implementation of Broadcast receivers.
 
 Broadcast Receivers simply respond to broadcast messages from other applications or from the system itself. These messages are sometime called events or intents.
 
